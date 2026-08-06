@@ -2,3 +2,4 @@
 react project
 - `reverse` helper
 - `reverse` helper
+- `clamp` helper
